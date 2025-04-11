@@ -5,3 +5,7 @@
 Asi queda...
 ![Captura de pantalla de 2025-04-11 10-49-30](https://github.com/user-attachments/assets/829d102d-adde-4c1d-bf2c-80c6e6ce8d00)
 
+Asi he subido al github la carta
+![imatge](https://github.com/user-attachments/assets/056b5c7d-a833-401b-bc2a-d8d79462688e)
+
+
