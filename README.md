@@ -8,4 +8,7 @@ Asi queda...
 Asi he subido al github la carta
 ![imatge](https://github.com/user-attachments/assets/056b5c7d-a833-401b-bc2a-d8d79462688e)
 
+Y asi se ha visto al subirlo
+![imatge](https://github.com/user-attachments/assets/2411e110-7247-47f6-9da6-ea74a4371920)
+
 
